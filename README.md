@@ -1,4 +1,4 @@
-# UKB_pulmonary_function_scripts
+# UKB pulmonary function scripts
 
 MATLAB Scripts to reproduce the analysis of the Communications Biology manuscript entitled 
 "A genome-wide association study identifies distinct variants associated with pulmonary function among European and African ancestries from the UK Biobank"
